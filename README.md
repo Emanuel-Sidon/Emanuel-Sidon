@@ -38,26 +38,26 @@ Sou um entusiasta em tecnologia focado em criar soluções **eficientes** e **vi
 
 <p align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USUARIO]/[USUARIO]/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/[USUARIO]/[USUARIO]/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[USUARIO]/[USUARIO]/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emanuel-Sidon/Emanuel-Sidon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Emanuel-Sidon/Emanuel-Sidon/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Emanuel-Sidon/Emanuel-Sidon/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 📊 Performance & Insights
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[USUARIO]&show_icons=true&theme=transparent&hide_border=true&title_color=79ffad&text_color=ffffff&icon_color=79ffad" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USUARIO]&layout=compact&theme=transparent&hide_border=true&title_color=79ffad&text_color=ffffff&icon_color=79ffad" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Sidon&show_icons=true&theme=transparent&hide_border=true&title_color=79ffad&text_color=ffffff&icon_color=79ffad" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Sidon&layout=compact&theme=transparent&hide_border=true&title_color=79ffad&text_color=ffffff&icon_color=79ffad" />
 </p> <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=[USUARIO]&theme=transparent&hide_border=true&stroke=79ffad&ring=79ffad&fire=79ffad&currStreakLabel=79ffad" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuel-Sidon&theme=transparent&hide_border=true&stroke=79ffad&ring=79ffad&fire=79ffad&currStreakLabel=79ffad" />
 </p>
 
 🧊 3D Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/[USUARIO]/[USUARIO]/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://raw.githubusercontent.com/Emanuel-Sidon/Emanuel-Sidon/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=[USUARIO]&color=79ffad&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Emanuel-Sidon&color=79ffad&style=flat-square&label=PROFILE+VIEWS" />
 </p>
