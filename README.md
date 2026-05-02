@@ -1,19 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20o%20[Emanuel-Sidon]&fontSize=35&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20o%20Emanuel-Sidon&fontSize=35&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<p align="center">
-  <a href="mailto:[emsfp@outlook.com]">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[Email]" />
-  </a>
-  <a href="https://linkedin.com/in/[Emanuel-Sidon]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-### ⚡ Sobre Mim
+### ⚡Sobre Mim
 
 Sou um entusiasta em tecnologia focado em criar soluções **eficientes** e **visualmente impactantes**. Atualmente, dedico meu tempo a:
 
@@ -48,13 +37,4 @@ Sou um entusiasta em tecnologia focado em criar soluções **eficientes** e **vi
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Sidon&layout=compact&theme=transparent&hide_border=true&title_color=79ffad&text_color=ffffff&icon_color=79ffad" />
 </p> <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuel-Sidon&theme=transparent&hide_border=true&stroke=79ffad&ring=79ffad&fire=79ffad&currStreakLabel=79ffad" />
-</p>
-
-🧊 3D Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Emanuel-Sidon/Emanuel-Sidon/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Emanuel-Sidon&color=79ffad&style=flat-square&label=PROFILE+VIEWS" />
 </p>
