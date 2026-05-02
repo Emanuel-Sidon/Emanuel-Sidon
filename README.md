@@ -33,9 +33,5 @@ Sou um entusiasta em tecnologia focado em criar soluções **eficientes** e **vi
 📊 Performance & Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Sidon&show_icons=true&theme=transparent&hide_border=true&title_color=79ffad&text_color=ffffff&icon_color=79ffad" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Sidon&layout=compact&theme=transparent&hide_border=true&title_color=79ffad&text_color=ffffff&icon_color=79ffad" />
-</p>
-<p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuel-Sidon&theme=transparent&hide_border=true&stroke=79ffad&ring=79ffad&fire=79ffad&currStreakNum=ffffff&currStreakLabel=79ffad&sideLabels=ffffff&dates=ffffff" />
 </p>
