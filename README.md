@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20o%20[Emanuel-Sidon]&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20o%20[Emanuel-Sidon]&fontSize=35&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/[Emanuel-Sidon]">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[LINKEDIN]/" />
-  </a>
   <a href="mailto:[emsfp@outlook.com]">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[EMAIL]" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[Email]" />
   </a>
   <a href="https://linkedin.com/in/[Emanuel-Sidon]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
