@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20o%20[Emanuel Sidon]&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20o%20[Emanuel-Sidon]&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
