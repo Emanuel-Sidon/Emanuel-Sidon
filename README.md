@@ -29,9 +29,3 @@ Sou um entusiasta em tecnologia focado em criar soluções **eficientes** e **vi
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Emanuel-Sidon/Emanuel-Sidon/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-📊 Performance & Insights
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuel-Sidon&theme=transparent&hide_border=true&stroke=79ffad&ring=79ffad&fire=79ffad&currStreakNum=ffffff&currStreakLabel=79ffad&sideLabels=ffffff&dates=ffffff" />
-</p>
